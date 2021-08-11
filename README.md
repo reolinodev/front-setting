@@ -8,7 +8,7 @@ type checking : typescript
 
 ## 사용법
 
-설치되는 dependancies는 아래와 같다
+설치되는 dependancies 입니다.
 - prettier
 - eslint
 - eslint-config-airbnb-base
@@ -17,6 +17,8 @@ type checking : typescript
 - @types/node
 - typescript
 
+
+설치는 터미널에서 아래와 같이 입력합니다.
 <pre>
 <code>npm install -D</code>
 </pre>
