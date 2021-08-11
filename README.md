@@ -1,10 +1,10 @@
 ## 목표
-프론트엔드 개발 설정입니다. 프로젝트 간 구성원들의 코딩타입을 최대한 일치시키기 위해 공유하고자 합니다.
+프론트엔드 개발 설정입니다. 프로젝트에 도움이 되었으면 좋겠습니다.
 
 ## 설명
-formating : prettier
-linting :  eslint
-type checking : typescript
+- formating : prettier
+- linting :  eslint
+- type checking : typescript
 
 ## 사용법
 
