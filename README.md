@@ -1,11 +1,15 @@
 ## 목표
-parcel-bundler를 설치해 sass를 사용할수 있게 되었습니다.
+parcel-bundler의 기본 세팅입니다.
 
 ## 사용법
 
 설치되는 dependancies 입니다.
 - parcel-bundler
 - sass
+- autoprefixer
+- postcss
+- @babel/core
+- @babel/preset-env
 
 설치는 터미널에서 아래와 같이 입력합니다.
 <pre>
