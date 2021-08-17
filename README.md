@@ -16,5 +16,14 @@ parcel-bundler의 기본 세팅입니다.
 <code>npm install -D</code>
 </pre>
 
+실행은 아래와 같이 입력합니다. 
+<pre>
+<code>npm run dev</code>
+</pre>
+
+배포는 아래와 같이 입력합니다.
+<pre>
+<code>npm run build</code>
+</pre>
 
 
