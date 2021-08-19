@@ -26,4 +26,6 @@ parcel-bundler의 기본 세팅입니다.
 <code>npm run build</code>
 </pre>
 
+## 적용화면
+[적용한 사이트](https://pacel-sample.netlify.app/)
 
